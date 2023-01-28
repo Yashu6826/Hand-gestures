@@ -10,16 +10,16 @@ const fingerJoints = {
   
   // Infinity Gauntlet Style
   const style = {
-    0: { color: "blue", size: 15 },
-    1: { color: "blue", size: 6 },
-    2: { color: "blue", size: 10 },
-    3: { color: "blue", size: 6 },
-    4: { color: "blue", size: 6 },
+    0: { color: "indigo", size: 15 },
+    1: { color: "indigo", size: 6 },
+    2: { color: "indigo", size: 10 },
+    3: { color: "indigo", size: 6 },
+    4: { color: "indigo", size: 6 },
     5: { color: "indigo", size: 10 },
     6: { color: "indigo", size: 6 },
     7: { color: "indigo", size: 6 },
     8: { color: "indigo", size: 6 },
-    9: { color: "blue", size: 10 },
+    9: { color: "indigo", size: 10 },
     10: { color: "indigo", size: 6 },
     11: { color: "indigo", size: 6 },
     12: { color: "indigo", size: 6 },
